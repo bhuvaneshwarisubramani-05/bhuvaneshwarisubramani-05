@@ -53,10 +53,7 @@ I love creating impactful solutions for real-world problems.
 ### 📊 GitHub Stats  
 <p align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwarisubramani-05&theme=radical&show_icons=true&rank_icon=github" 
-    height="165"
-  />
+ 
 
   <img 
     src="https://streak-stats.demolab.com?user=bhuvaneshwarisubramani-05&theme=radical" 
